@@ -1,5 +1,5 @@
 # k-of-n Multisig & ERC20 Integration
-![multisig](https://github.com/user-attachments/assets/f43091b6-48e3-4289-af0f-0f1c57c931fc)
+![multisig](https://github.com/user-attachments/assets/e5e8774f-966e-4215-ae5a-72404fe80fc3)
 
 A **threshold-based** (k-of-n) multisig wallet that collects **off-chain ECDSA signatures** and executes transactions **on-chain** with replay protection, plus an **ERC20** token example demonstrating restricted `mint` & `burn`, and a single address for pause/unpause.
 
